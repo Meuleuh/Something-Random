@@ -10,6 +10,20 @@ namespace Whatever_s_up_on_my_mind
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Choisis une option");
+            Console.WriteLine();
+            Console.WriteLine("1- Nothing, just for template");
+//            Console.WriteLine("2- ");
+//            Console.WriteLine("3- ");
+//            Console.WriteLine("4- ");
+//            Console.WriteLine("5- ");
+//            Console.WriteLine("6- ");
+//            Console.WriteLine("7- ");
+//            Console.WriteLine("8- ");
+//            Console.WriteLine("9- ");
+            Console.WriteLine("0- Next Page");
+            ConsoleKeyInfo Choix = Console.ReadKey();
+            int ChoixInt = GeneralStuff.ChangeNumKeyToInt(Choix);
         }
     }
 }

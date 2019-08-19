@@ -1,0 +1,5 @@
+﻿[Liste des programmes présents]
+
+General Stuff
+	- ChangeNumKeyToInt
+		Transforme une entrée de touche numérique (Numpad ou pas) en valeur intégrale
