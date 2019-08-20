@@ -12,7 +12,7 @@ namespace Whatever_s_up_on_my_mind
         {
             Console.WriteLine("Choisis une option");
             Console.WriteLine();
-            Console.WriteLine("1- Nothing, just for template");
+//            Console.WriteLine("1-");
 //            Console.WriteLine("2- ");
 //            Console.WriteLine("3- ");
 //            Console.WriteLine("4- ");

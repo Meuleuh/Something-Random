@@ -53,5 +53,8 @@
   <ItemGroup>
     <Content Include="Text Doc\Les trucs.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Random Stuff\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
