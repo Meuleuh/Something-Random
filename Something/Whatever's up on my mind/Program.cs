@@ -24,6 +24,11 @@ namespace Whatever_s_up_on_my_mind
             Console.WriteLine("0- Next Page");
             ConsoleKeyInfo Choix = Console.ReadKey();
             int ChoixInt = GeneralStuff.ChangeNumKeyToInt(Choix);
+            switch (ChoixInt)
+            {
+                case 1:
+                    break;
+            }
         }
     }
 }

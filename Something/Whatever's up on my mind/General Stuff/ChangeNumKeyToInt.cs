@@ -56,7 +56,6 @@ namespace Whatever_s_up_on_my_mind
                 Console.WriteLine("");
                 Console.WriteLine("Well... That was unexpected...");
             }
-            Console.ReadKey();
             return KeyInt;
         }
     }
